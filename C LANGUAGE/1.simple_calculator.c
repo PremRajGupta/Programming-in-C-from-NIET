@@ -44,7 +44,7 @@ void main()
             printf("Divide of Two Number is %d / %d=%d\n", num1, num2, num1 / num2);
             break;
         default:
-            printf("Your option is wrong, Please try again\n");
+            printf("Invalid Option, Please try again\n");
             break;
         };
     }
