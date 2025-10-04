@@ -1,4 +1,4 @@
-// Write a C program that simulates a simple calculator capable of performing basic arithmetic operations
+// WritWrite a program in C to make a simple calculator using switch...case
 
 #include <stdio.h>
 #include <stdlib.h>
