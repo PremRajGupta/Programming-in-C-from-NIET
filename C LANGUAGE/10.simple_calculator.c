@@ -1,4 +1,4 @@
-// WritWrite a program in C to make a simple calculator using switch...case
+// Write a program in C to make a simple calculator using switch...case
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -12,7 +12,7 @@ void main()
         printf("Press 2. For Subtract Two Numbers.\n");
         printf("Press 3. For Multiple Two Numbers.\n");
         printf("Press 4. For Division Two Numbers.\n");
-        printf("Press 5. For Exit Two Numbers.\n");
+        printf("Press 5. For Exit\n");
 
         int option;
         printf("\nEnter Your Option=");
