@@ -16,6 +16,6 @@ int main()
         digit = digit * 10 + rem;
         num /= 10;
     }
-    printf("Reverse Number is =%d", digit);
+    printf("\nReverse Number is =%d", digit);
     return 0;
 }
