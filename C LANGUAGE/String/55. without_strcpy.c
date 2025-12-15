@@ -1,5 +1,6 @@
 // Write a program in C to copy string without using strcpy ()
 #include <stdio.h>
+#include <conio.h>
 
 int main()
 {
